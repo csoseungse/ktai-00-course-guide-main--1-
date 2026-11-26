@@ -15,7 +15,7 @@ print(f"나눗셈 결과: {result2}")
 print(type(s1))
 print(type(result2)) # float
 
-first_string="10.5"
-second_string="20.5"
+first_string="10"
+second_string="20"
 result3=float(first_string)+float(second_string)
 print(f"문자열 더하기 결과: {result3}")
